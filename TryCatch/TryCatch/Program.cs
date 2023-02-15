@@ -7,10 +7,10 @@ Console.WriteLine("Enter minutes:");
 double minutes = double.Parse(Console.ReadLine());
 Console.WriteLine("Enter secs:");
 double sec = double.Parse(Console.ReadLine());
-Console.WriteLine("Enter kms:");
-double km = double.Parse(Console.ReadLine());
+Console.WriteLine("Enter m:");
+double m = double.Parse(Console.ReadLine());
     double convertedSeconds = CalculateSeconds(hours, minutes, sec);
-    double miles = ConvertToMiles(km);
+    double miles = ConvertToMiles(m);
     double speed = miles / convertedSeconds;
     Console.WriteLine($"Result: {speed:f5}miles/s");
 }
@@ -34,7 +34,7 @@ double CalculateSeconds(double hours,double minutes,double sec)
     totalSeconds += sec;
     return totalSeconds;
 }
-double ConvertToMiles(double km)
+double ConvertToMiles(double m)
 {
     double miles = km/ 1.609;
     
