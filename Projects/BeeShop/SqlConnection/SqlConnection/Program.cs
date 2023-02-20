@@ -21,10 +21,7 @@ namespace Connection
                      
             return tables;
         }
-            
-            
-            
-        
+ 
         public static void PrintTable(List<string> list)
         {
             int count = 1;
