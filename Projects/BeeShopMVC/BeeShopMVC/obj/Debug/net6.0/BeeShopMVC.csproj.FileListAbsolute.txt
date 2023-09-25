@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\BEESHOP\BeeShopMVC\BeeShopMVC\obj\Debug\net6.0\BeeShopMVC.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\BEESHOP\BeeShopMVC\BeeShopMVC\obj\Debug\net6.0\BeeShopMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\BEESHOP\BeeShopMVC\BeeShopMVC\obj\Debug\net6.0\BeeShopMVC.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\BEESHOP\BeeShopMVC\BeeShopMVC\obj\Debug\net6.0\BeeShopMVC.AssemblyInfo.cs
+C:\Users\ekrem\Documents\BEESHOP\BeeShopMVC\BeeShopMVC\obj\Debug\net6.0\BeeShopMVC.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\BEESHOP\BeeShopMVC\BeeShopMVC\obj\Debug\net6.0\BeeShopMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ekrem\Documents\BEESHOP\BeeShopMVC\BeeShopMVC\obj\Debug\net6.0\BeeShopMVC.RazorAssemblyInfo.cache
+C:\Users\ekrem\Documents\BEESHOP\BeeShopMVC\BeeShopMVC\obj\Debug\net6.0\BeeShopMVC.RazorAssemblyInfo.cs
