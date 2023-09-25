@@ -5,7 +5,13 @@ namespace BeeShopMVC.Data.Models
 {
     public class Honey : IHoney
     {
-        public int Id { get; init; }
+        public Honey() { 
+
+        
+        }
+
+        [Key]
+        public int Id { get;set; }
         [Required]
         [MaxLength(MaxNameLength)]
         public string Name { get; set; }

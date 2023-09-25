@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ekrem\\Documents\\BEESHOP\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj": {}
+    "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ekrem\\Documents\\BEESHOP\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj": {
+    "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\BEESHOP\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj",
+        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj",
         "projectName": "BeeShopMVC",
-        "projectPath": "C:\\Users\\ekrem\\Documents\\BEESHOP\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj",
+        "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj",
         "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ekrem\\Documents\\BEESHOP\\BeeShopMVC\\BeeShopMVC\\obj\\",
+        "outputPath": "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShopMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

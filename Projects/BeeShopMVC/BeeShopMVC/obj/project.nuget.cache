@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZWfThoA/b3T45RW9T6qZ1o8suS8LX9c0T7Dl93s32Jgc44eI4v1BhOUSTzObOB43cRIq2ECUYOsUh8BiTH7xg==",
+  "dgSpecHash": "ee+qPoIZRVzuiXFew+ro8FTina6vrw1qTns/RXHSYWzovQ3rew/XAsm+gA+Z3pwdcuOdtMkAxA7ynEQq/fyN6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ekrem\\Documents\\BEESHOP\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj",
+  "projectFilePath": "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShopMVC\\BeeShopMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ekrem\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

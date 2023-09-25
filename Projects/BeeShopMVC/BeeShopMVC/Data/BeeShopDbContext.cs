@@ -32,7 +32,7 @@ namespace BeeShopMVC.Data
             };
             ManHoney = new Honey
             {
-                Id = 1,
+                Id = 2,
                 Name = "Манов мед",
                 Description = "blablablabllbalabalbla",
                 Price = 17.29
@@ -40,7 +40,7 @@ namespace BeeShopMVC.Data
             };
             ManaukaHoney = new Honey
             {
-                Id = 1,
+                Id = 3,
                 Name = "Мед от манаука",
                 Description = "blablablabllbalabalbla",
                 Price = 25.29
