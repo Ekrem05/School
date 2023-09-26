@@ -1,0 +1,5 @@
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShopService\obj\Debug\net6.0\BeeShop.Services.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShopService\obj\Debug\net6.0\BeeShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShopService\obj\Debug\net6.0\BeeShop.Services.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShopService\obj\Debug\net6.0\BeeShop.Services.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShopService\obj\Debug\net6.0\BeeShop.Services.csproj.CoreCompileInputs.cache

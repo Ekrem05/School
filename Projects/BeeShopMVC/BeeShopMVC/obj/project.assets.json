@@ -1077,6 +1077,43 @@
             "rid": "win"
           }
         }
+      },
+      "BeeShop.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.11"
+        },
+        "compile": {
+          "bin/placeholder/BeeShop.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeeShop.Data.dll": {}
+        }
+      },
+      "BeeShop.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BeeShop.Data": "1.0.0",
+          "BeeShop.Web.ViewModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BeeShop.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeeShop.Services.dll": {}
+        }
+      },
+      "BeeShop.Web.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BeeShop.Web.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeeShop.Web.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -2924,10 +2961,27 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BeeShop.Data/1.0.0": {
+      "type": "project",
+      "path": "../BeeShop.Data/BeeShop.Data.csproj",
+      "msbuildProject": "../BeeShop.Data/BeeShop.Data.csproj"
+    },
+    "BeeShop.Services/1.0.0": {
+      "type": "project",
+      "path": "../BeeShopService/BeeShop.Services.csproj",
+      "msbuildProject": "../BeeShopService/BeeShop.Services.csproj"
+    },
+    "BeeShop.Web.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../BeeShop.Web.ViewModel/BeeShop.Web.ViewModel.csproj",
+      "msbuildProject": "../BeeShop.Web.ViewModel/BeeShop.Web.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BeeShop.Data >= 1.0.0",
+      "BeeShop.Services >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.11",
@@ -2966,7 +3020,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShop.Data\\BeeShop.Data.csproj": {
+              "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShop.Data\\BeeShop.Data.csproj"
+            },
+            "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShopService\\BeeShop.Services.csproj": {
+              "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\School\\Projects\\BeeShopMVC\\BeeShopService\\BeeShop.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

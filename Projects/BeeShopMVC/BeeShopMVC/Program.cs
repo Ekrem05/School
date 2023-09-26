@@ -1,3 +1,5 @@
+using BeeShop.Services.Interfaces;
+using BeeShop.Services.Honey;
 using BeeShopMVC.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -22,7 +24,8 @@ namespace BeeShopMVC
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            // Add custom services
+            builder.Services.AddScoped<IHoneyService, HoneyService>();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 

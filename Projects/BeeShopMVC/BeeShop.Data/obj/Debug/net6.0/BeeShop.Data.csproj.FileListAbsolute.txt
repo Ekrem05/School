@@ -1,0 +1,12 @@
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\BeeShop.Data.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\BeeShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\BeeShop.Data.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\BeeShop.Data.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\BeeShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\bin\Debug\net6.0\BeeShop.Data.deps.json
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\bin\Debug\net6.0\BeeShop.Data.dll
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\bin\Debug\net6.0\BeeShop.Data.pdb
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\BeeShop.Data.dll
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\refint\BeeShop.Data.dll
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\BeeShop.Data.pdb
+C:\Users\ekrem\Documents\GitHub\School\Projects\BeeShopMVC\BeeShop.Data\obj\Debug\net6.0\ref\BeeShop.Data.dll
